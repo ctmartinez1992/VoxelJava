@@ -1,0 +1,7 @@
+width=1024
+height=768
+fov=45
+view_distance=65
+fog_density=35
+fullscreen=false
+mouse_sensitivity=1
